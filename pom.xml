@@ -6,7 +6,7 @@
 
   <groupId>org.com.learningmaven</groupId>
   <artifactId>selinium_tutorials</artifactId>
-  <version>1</version>
+  <version>1-SNAPSHOT</version>
 
   <name>selinium tutorials</name>
   <!-- FIXME change it to the project's website -->
