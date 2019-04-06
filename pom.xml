@@ -67,12 +67,12 @@
     <repository>
          <id>releases</id>
          <name>release repository</name>
-         <url>http://localhost:8082/repository/maven-releases/</url>
+         <url>http://34.205.25.44:8082/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
          <id>snapshots</id>
          <name>snapshot Repository</name>
-         <url>http://localhost:8082/repository/maven-snapshots/</url>
+         <url>http://34.205.25.44:8082/repository/maven-snapshots/</url>
     </snapshotRepository>
 	</distributionManagement>
 </project>
