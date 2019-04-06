@@ -6,7 +6,7 @@
 
   <groupId>org.com.learningmaven</groupId>
   <artifactId>selinium_tutorials</artifactId>
-  <version>1</version>
+  <version>1-releases</version>
 
   <name>selinium tutorials</name>
   <!-- FIXME change it to the project's website -->
@@ -65,12 +65,12 @@
     <repository>
          <id>releases</id>
          <name>release repository</name>
-         <url>http://34.205.25.44:8081/repository/maven-releases/</url>
+         <url>http://34.205.25.44:8081/#browse/browse/components:maven-releases</url>
     </repository>
     <snapshotRepository>
          <id>snapshots</id>
          <name>snapshot Repository</name>
-         <url>http://34.205.25.44:8081/repository/maven-snapshots/</url>
+         <url>http://34.205.25.44:8081/#browse/browse/components:maven-snapshots</url>
     </snapshotRepository>
 	</distributionManagement>	  
   </build>
